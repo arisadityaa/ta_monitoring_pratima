@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120156863096",
+    "firebase_url": "https://ta-monitoring-pratima-default-rtdb.firebaseio.com",
+    "project_id": "ta-monitoring-pratima",
+    "storage_bucket": "ta-monitoring-pratima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120156863096:android:3bba740c4d065cffe5cb8d",
+        "android_client_info": {
+          "package_name": "id.arisaditya.ta_monitoring_pratima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120156863096-rl4fqefcujpb2kvn2ee0975o2nit6l2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_xVS_VAiZb7phN7Ebi8fdwwAmkN3wOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120156863096-rl4fqefcujpb2kvn2ee0975o2nit6l2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
